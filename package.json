@@ -1,0 +1,17 @@
+{
+  "name": "beehive",
+  "version": "1.0.0",
+  "description": "An advanced spoofed server that proxies connection *from* Minecraft Education Edition *to* Minecraft Bedrock Edition servers.... STILL IN DEVELOPMENT.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "public-ip": "^7.0.1",
+    "ws": "^8.18.2"
+  }
+}
